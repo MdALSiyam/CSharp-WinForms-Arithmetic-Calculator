@@ -1,0 +1,20 @@
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\bin\Debug\ArithmeticOperatorTest.exe.config
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\bin\Debug\ArithmeticOperatorTest.exe
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\bin\Debug\ArithmeticOperatorTest.pdb
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.csproj.AssemblyReference.cache
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.Form1.resources
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.Properties.Resources.resources
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.csproj.GenerateResource.cache
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.csproj.CoreCompileInputs.cache
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.exe
+D:\R_61\C_Sharp\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.pdb
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\bin\Debug\ArithmeticOperatorTest.exe.config
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\bin\Debug\ArithmeticOperatorTest.exe
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\bin\Debug\ArithmeticOperatorTest.pdb
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.csproj.AssemblyReference.cache
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.Form1.resources
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.Properties.Resources.resources
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.csproj.GenerateResource.cache
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.csproj.CoreCompileInputs.cache
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.exe
+E:\Round-61\Module_3\C_Sharp\Practise\August\28th August\ArithmeticOperatorTestSln\ArithmeticOperatorTestSln\ArithmeticOperatorTest\obj\Debug\ArithmeticOperatorTest.pdb
